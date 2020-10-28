@@ -12,4 +12,5 @@
 С правом администратора:
 - add      - добавить пользователя
 - remove   - удалить пользователя
-
+  
+![image.png](https://github.com/Greentaily/bash-laba/blob/main/image.png?raw=true)
